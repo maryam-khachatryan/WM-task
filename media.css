@@ -1,0 +1,32 @@
+@media(max-width: 768px) {
+    .navbar{
+        height: fit-content;
+    } 
+
+    .text-contact {
+        font-size: 18px;
+        word-break: break-all;
+    }
+
+    .navbar-brand > img {
+        width: 200px;
+      }
+
+    .navbar-brand > img {
+        width: 140px;
+    }
+
+    .navbar-box {
+        margin: 15px 0;
+    }
+
+    .card-body {
+        padding: 0 !important;
+    }
+}
+
+@media(max-width: 575px) {
+    .footer-box {
+        padding: 18px !important;
+    }
+}
